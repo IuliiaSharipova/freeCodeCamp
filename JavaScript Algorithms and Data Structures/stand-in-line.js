@@ -1,9 +1,9 @@
 function nextInLine(arr, item) {
-  const newArr=arr.push(item);// Only change code below this line
-  const firstElement = arr.shift();
+    const newArr = arr.push(item);// Only change code below this line
+    const firstElement = arr.shift();
 
-  return firstElement;
-  // Only change code above this line
+    return firstElement;
+    // Only change code above this line
 }
 
 // Setup
